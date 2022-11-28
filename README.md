@@ -6,4 +6,5 @@ Repo này là ví dụ cách dùng Github
 Hướng dẫn dùng GIT
 ## Phần 2
 Abc xyz
+Cai dat SSH key
 ## Phần 3
