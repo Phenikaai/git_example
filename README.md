@@ -5,5 +5,5 @@ Repo này là ví dụ cách dùng Github
 ## Phần 1
 Hướng dẫn dùng GIT
 ## Phần 2
-
+Abc xyz
 ## Phần 3
